@@ -7,5 +7,7 @@ I'm a student at University of Zürich in computer and computational science.
 👨‍💻 Software Development in Java and C++  
 🎲 Self optimizing systems, generative geometry and textures  
 
+![alt text](./0926.png "Cells")
+
 📫 andrinrehmann@gmail.com
 
