@@ -2,8 +2,8 @@
 
 I'm a student at University of Zürich in computer and computational science. My areas of interest are:
 
-🎨 Creative coding with Processing and Processing
-🌐 Web development using primarily Svelte
+🎨 Creative coding with Processing and Processing  
+🌐 Web development using primarily Svelte  
 🤖 Data Science and Scientific Data Visualisation in Python   
 👨‍💻 Software Development in Java and C++  
 🖥️ High Performance computing in C++, CUDA, Fortran  
@@ -13,6 +13,6 @@ I'm a student at University of Zürich in computer and computational science. My
 
 📫 andrinrehmann@gmail.com
 
-[Learn more...](https://andrinrehmann.ch)
+[🌌 Visit my website](https://andrinrehmann.ch)
 
 
