@@ -13,6 +13,6 @@ I'm a student at University of Zürich in computer and computational science. My
 
 📫 andrinrehmann@gmail.com
 
-[🌌 Visit my website](https://andrinrehmann.ch)
+🌌 [Personal webpage](https://andrinrehmann.ch)
 
 
