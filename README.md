@@ -5,7 +5,7 @@ I'm a student at University of Zürich in computer and computational science. My
 🖥️ High Performance computing in C++, CUDA, Fortran  
 🎲 Self optimizing systems, generative geometry and textures  
 🎨 Creative coding with Processing and TouchDesigner    
-🌐 Web development using primarily Svelte  
+🌐 Web development with Svelte  
 🤖 Data Science and Scientific Data Visualisation in Python   
 👨‍💻 Software Development in Java and C++  
 
