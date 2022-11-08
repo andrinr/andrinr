@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a student at University of Zürich in computer and computational science. My areas of interest are:
+I'm a student at University of Zürich in computational sciences. 
 
-🎨 Self optimizing systems, generative geometry & textures    
-🤖 Data Science and Scientific Data Visualisation in Python   
-👨‍💻 SoEng & HPC in C++, CUDA & Rust
+My interests are:
+🎨 Generative Geometry and Shaders
+🌐 3D technology for the web (three.js, webGL, webgpu)
+🤖 Simulation and acceleration (CUDA, MPI, HPC)
+👨‍💻 Data Science
 
 <img src="./0926.png" alt="drawing" width="400"/>
 
