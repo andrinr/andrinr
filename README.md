@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at University of Zürich in computational sciences. 
+Currently: Msc of Science in Computational Science @UZH
 
 My interests are:  
 🎨 Generative Geometry and Shaders  
