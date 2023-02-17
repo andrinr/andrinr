@@ -1,4 +1,4 @@
-Hi there! I am currently doing a master in **Computational Science**. 
+Hi there! I am currently doing a masters in **Computational Science** at University of Zürich.
 
 My interests are:  
 - 🌐 3D technology for the web
