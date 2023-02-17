@@ -1,7 +1,8 @@
 Hi there! I am currently doing a master in **Computational Science**. 
 
 My interests are:  
-🌐 3D technology for the web (three.js, webGL, webgpu)  
+🌐 3D technology for the web
+🖥️ High Performance Computing
 🤖 Neural Networks  
 🌊 Physical Simulations
 
