@@ -1,18 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrinr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrinr&langs_count=8&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Currently: Msc of Science in Computational Science @UZH
+Hi there! I am currently doing a master in **Computational Science**. 
 
 My interests are:  
-🎨 Generative Geometry and Shaders  
 🌐 3D technology for the web (three.js, webGL, webgpu)  
-🤖 Simulation and acceleration (CUDA, MPI, HPC)  
-👨‍💻 Data Science  
+🤖 Neural Networks
+🌊 Physical Simulations
 
-<img src="./0926.png" alt="drawing" width="400"/>
+Get in contact via email 📫 andrinrehmann@gmail.com or check out my webpage 🌌 [Personal webpage](https://andrinrehmann.ch)
 
-📫 andrinrehmann@gmail.com
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrinr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrinr&langs_count=8&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-🌌 [Personal webpage](https://andrinrehmann.ch)
+
 
 
