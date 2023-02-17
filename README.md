@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrinr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrinr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrinr&langs_count=8&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently: Msc of Science in Computational Science @UZH
 
