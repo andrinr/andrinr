@@ -2,7 +2,7 @@ Hi there! I am currently doing a master in **Computational Science**.
 
 My interests are:  
 🌐 3D technology for the web (three.js, webGL, webgpu)  
-🤖 Neural Networks
+🤖 Neural Networks  
 🌊 Physical Simulations
 
 Get in contact via email 📫 andrinrehmann@gmail.com or check out my webpage 🌌 [Personal webpage](https://andrinrehmann.ch)
