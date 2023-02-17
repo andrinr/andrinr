@@ -1,10 +1,10 @@
 Hi there! I am currently doing a master in **Computational Science**. 
 
 My interests are:  
-🌐 3D technology for the web
-🖥️ High Performance Computing
-🤖 Neural Networks  
-🌊 Physical Simulations
+- 🌐 3D technology for the web
+- 🖥️ High Performance Computing
+- 🤖 Neural Networks  
+- 🌊 Physical Simulations
 
 Get in contact via email 📫 andrinrehmann@gmail.com or check out my 🌌 [website](https://andrinrehmann.ch)
 
