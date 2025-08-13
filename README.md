@@ -18,10 +18,12 @@ A selection of source code that is hosted on my github, by topic.
 - [Neural ODE](https://github.com/andrinr/jax-neural-ode)
 - [Neural Cellular Automata](https://github.com/andrinr/dlca-simulation)
 
-#### Computer Graphics 🫖
+#### Computer Graphics / Web 🫖
 - [WebGPU installation](https://github.com/andrinr/webgpu-salt)
 - [WebGPU noodles](https://github.com/andrinr/webgpu-noodles)
 - [WebGPU particles](https://github.com/andrinr/webgpu-particles)
+- [3D Village](https://github.com/andrinr/villages)
+- [3D interactive asset browser](https://github.com/andrinr/three-js-asset-browser)
 
 
 
