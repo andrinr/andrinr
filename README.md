@@ -1,29 +1,10 @@
 Hi there! I am interested in SciML, Computer Graphics and High Performance Computing. Always down for a chat :)
 
-A selection of source code that is hosted on my github, by topic.
+<img src="https://raw.githubusercontent.com/andrinr/cosmax/refs/heads/main/data/fit.png" alt="drawing" width="200"/>
+<img src="https://github.com/andrinr/IC-prediction/blob/main/docs/img/eval_stats.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/andrinr/pbdl/blob/main/img/trajectories_attractors.png" alt="drawing" width="200"/>
+<img src="https://github.com/andrinr/pbdl/blob/main/img/trajectories_attractors.png" alt="drawing" width="200"/>
 
-#### Cosmology / HPC 🌌
-- [Differntiable tools for cosmology](https://github.com/andrinr/cosmax)
-- [GPU load balancing](https://github.com/andrinr/gpu-load-balance)
-- [Dark Matter IC prediction](https://github.com/andrinr/IC-prediction)
-
-#### Simulations 🖥️
-- [Differentiable PDE and ODE solvers](https://github.com/andrinr/pbdl)
-- [Advanced Simulation Codes](https://github.com/andrinr?page=2&tab=repositories)
-- [Simulation Codes](https://github.com/andrinr/uzh-sns)
-
-#### Machine Learning 🤖
-- [Graph Spring Neural ODEs](https://github.com/andrinr/gsn-link-sign-pred)
-- [Evolutionary Optimization](https://github.com/andrinr/evo)
-- [Neural ODE](https://github.com/andrinr/jax-neural-ode)
-- [Neural Cellular Automata](https://github.com/andrinr/dlca-simulation)
-
-#### Computer Graphics / Web 🫖
-- [WebGPU installation](https://github.com/andrinr/webgpu-salt)
-- [WebGPU noodles](https://github.com/andrinr/webgpu-noodles)
-- [WebGPU particles](https://github.com/andrinr/webgpu-particles)
-- [3D Village](https://github.com/andrinr/villages)
-- [3D interactive asset browser](https://github.com/andrinr/three-js-asset-browser)
 
 
 
