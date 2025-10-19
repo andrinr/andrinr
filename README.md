@@ -2,7 +2,7 @@ Hi there! I am interested in SciML, Optimization, Computer Graphics and High Per
 Get in contact via email 📫 andrinrehmann@gmail.com or check out my 🌌 [website](https://andrinrehmann.ch)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/asim/refs/heads/main/raytracing/Figure_78png.png" alt="drawing" height="100"/>
+  <img src="https://raw.githubusercontent.com/andrinr/asim/refs/heads/main/raytracing/Figure_78png.png" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/jax-diffusion/refs/heads/main/diffusion_process.gif" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/cosmax/refs/heads/main/data/fit.png" alt="drawing" height="100"/>
   <img src="https://github.com/andrinr/IC-prediction/blob/main/docs/img/eval_stats.jpg" alt="drawing" height="100"/>
