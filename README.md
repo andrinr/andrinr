@@ -1,7 +1,9 @@
 Hi there! I am interested in SciML, Optimization, Computer Graphics and High Performance Computing. Always down for a chat :)
 Get in contact via email 📫 andrinrehmann@gmail.com or check out my 🌌 [website](https://andrinrehmann.ch)
 
+Some visuals of projects I have worked on:
 <p float="left">
+  <img src="https://raw.githubusercontent.com/pasteurlabs/tesseract-jax/refs/heads/main/examples/fem-shapeopt/rho_optim.gif" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/asim/refs/heads/main/raytracing/Figure_78png.png" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/jax-diffusion/refs/heads/main/diffusion_process.gif" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/cosmax/refs/heads/main/data/fit.png" alt="drawing" height="100"/>
