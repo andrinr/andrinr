@@ -8,6 +8,7 @@ Some visuals of projects I have worked on:
   <img src="https://raw.githubusercontent.com/andrinr/jax-diffusion/refs/heads/main/diffusion_process.gif" alt="drawing" height="100"/>
   <img src="https://raw.githubusercontent.com/andrinr/cosmax/refs/heads/main/data/fit.png" alt="drawing" height="100"/>
   <img src="https://github.com/andrinr/IC-prediction/blob/main/docs/img/eval_stats.jpg" alt="drawing" height="100"/>
+  <img src="https://raw.githubusercontent.com/pasteurlabs/tesseract-core/refs/heads/main/demo/_showcase/ansys-shapeopt/imgs/mesh_rnd_adam.gif" alt="drawing" height="100"/>
   <img src="https://github.com/andrinr/pbdl/blob/main/img/trajectories_attractors.png" alt="drawing" height="100"/>
   <img src="https://github.com/andrinr/uzh-sns/blob/master/TravelingSalesman/salesman.png" alt="drawing" height="100"/>
   <img src="https://github.com/andrinr/uzh-sns/blob/master/LogisticGrowth/behaviours.png" alt="drawing" height="100"/>
