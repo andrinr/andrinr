@@ -1,5 +1,5 @@
 Hi there! I am interested in SciML, Optimization, Computer Graphics and High Performance Computing. Always down for a chat :)
-Get in contact via email 📫 andrinrehmann@gmail.com or check out my 🌌 [website](https://andrinrehmann.ch)
+Get in contact via email 📫 andrinrehmann @ gmail dot com or check out my 🌌 [website](https://andrinrehmann.ch)
 
 Some visuals of projects I have worked on:
 <p float="left">
